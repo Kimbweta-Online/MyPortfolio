@@ -23,8 +23,8 @@ Following is the tech stack for this:
 Here is some look'n feel from the implementation
 
 <img src="https://user-images.githubusercontent.com/43790152/220706171-5eb846c2-c137-4d51-a518-624aa5bd3c02.gif">
-
-<img src="https://user-images.githubusercontent.com/43790152/220693107-4f0ab916-04fc-44d1-adfc-c874e42203de.gif">
+<!-- 
+<img src="https://user-images.githubusercontent.com/43790152/220693107-4f0ab916-04fc-44d1-adfc-c874e42203de.gif"> -->
 
 <img src="https://user-images.githubusercontent.com/43790152/220706713-19bd40cf-c038-425c-9f34-196acc957674.gif">
 
