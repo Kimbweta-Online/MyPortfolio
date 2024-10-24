@@ -7,7 +7,7 @@ jobs:
       runs-on: ubuntu-latest
       steps:
         # Checkout Repository
-        - uses: actions/checkout@v1
+        - uses: actions/checkout@v3
           with:
             fetch-depth: 0
             token: ${{ secrets.GP_TOKEN }}
@@ -20,7 +20,7 @@ jobs:
             git config --global user.email "codewithdraculer@gmail.com"
 
         - name: Build and Deploy
-          uses: JamesIves/github-pages-deploy-action@releases/v3
+          uses: JamesIves/github-pages-deploy-action@releases/v4
           with:
             ACCESS_TOKEN: ${{ secrets.GP_TOKEN }}
             BRANCH: gh-pages # The branch the action should deploy to.
