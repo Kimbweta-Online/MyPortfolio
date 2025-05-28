@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 function mapMetaDataInHeader() {
     var tagElement = document.getElementById("tag-label");
-    tagElement.innerText = 'Full Stack Flutter Expert';
+    tagElement.innerText = 'Full Stack Developer';
 
     let firstName = 'Goodluck';
     let lastName = 'Stanley';
@@ -27,19 +27,19 @@ function mapSocialLinksData() {
         },
         {
             "icon": "fa fa-github",
-            "value": "https://github.com/CodeWithDrac"
+            "value": "https://github.com/Kimbweta-Online"
         },
-        // {
-        //     "icon": "fa fa-medium",
-        //     "value": "https://mhmzdev.medium.com"
-        // },
-        // {
-        //     "icon": "fa fa-facebook-square",
-        //     "value": "https://facebook.com/mhmzdev"
-        // },
+        {
+            "icon": "fa fa-medium",
+            "value": "https://medium.com/@goodluckstanley20"
+        },
+        {
+            "icon": "fa fa-facebook-square",
+            "value": "https://www.facebook.com/share/1AZu9Qvqcy/"
+        },
         {
             "icon": "fa fa-instagram",
-            "value": "https://www.instagram.com/the_tech_tower"
+            "value": "https://www.instagram.com/goodluck_stanley19/"
         },
         // {
         //     "icon": "fa fa-twitter",
@@ -92,17 +92,17 @@ function mapSocialLinksData() {
 function mapStatsData() {
     let stats = [
         {
-            "value": "~3",
+            "value": "~5",
             "text-1": "Years",
             "text-2": "Experience"
         },
         {
-            "value": "3+",
+            "value": "10+",
             "text-1": "Projects Completed",
-            "text-2": "in 3+ Years"
+            "text-2": "in 5+ Years"
         },
         {
-            "value": "~110k",
+            "value": "~200+",
             "text-1": "Content",
             "text-2": "Reach & Views"
         }

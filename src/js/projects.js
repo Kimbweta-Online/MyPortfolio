@@ -6,32 +6,32 @@ function mapProjectsData() {
     let projects = [
        
         // {
-        //     "title": "Devfolio",
+        //     "title": "HIV monitor",
         //     "image": "images/projects/devfolio.png",
         //     "type": "Open Source",
         //     "labels": [
+        //         // {
+        //         //     "title": "Play",
+        //         //     "link": "https://play.google.com/store/apps/details?id=com.hmz.folio"
+        //         // },
         //         {
-        //             "title": "Play",
-        //             "link": "https://play.google.com/store/apps/details?id=com.hmz.folio"
+        //             "title": "Hardware Project",
+        //             "link": ""
         //         },
         //         {
-        //             "title": "Web",
-        //             "link": "http://mhmzdev.github.io/devfolio"
-        //         },
-        //         {
-        //             "title": "GitHub",
-        //             "link": "https://github.com/mhmzdev/devfolio"
+        //             "title": "Mobile App",
+        //             "link": "https://github.com/Kimbweta-Online"
         //         }
         //     ]
         // },
         {
-            "title": "Clock Tower Food Delivery",
+            "title": "Clock Tower",
             "image": "images/projects/clock_tower_with_tower.jpg",
             "type": "Product",
             "labels": [
                 {
-                    "title": "GitHub",
-                    "link": "https://github.com/CodeWithDrac"
+                    "title": "Testing Stage",
+                    "link": "https://github.com/Kimbweta-Online"
                 },
                 // {
                 //     "title": "Package",
@@ -40,7 +40,7 @@ function mapProjectsData() {
             ]
         },
         {
-            "title": "Ecommerce App",
+            "title": "Food Delivery App",
             "image": "images/projects/foodDelivey.png",
             "type": "Product",
             "labels": [
@@ -60,7 +60,7 @@ function mapProjectsData() {
             ]
         },
         {
-            "title": "Kimbweta Online",
+            "title": "FarmerRiser",
             "image": "images/projects/kimbweta-online.png",
             "type": "Product",
             "labels": [
@@ -78,25 +78,118 @@ function mapProjectsData() {
                 // }
             ]
         },
-        // {
-        //     "title": "Sastaticket.pk",
-        //     "image": "images/projects/sastaticket.png",
-        //     "type": "Product",
-        //     "labels": [
-        //         {
-        //             "title": "App",
-        //             "link": "https://apps.apple.com/in/app/sastaticket-flight-hotels/id1564441908"
-        //         },
-        //         {
-        //             "title": "Play",
-        //             "link": "https://play.google.com/store/apps/details?id=com.pk.sastaticket&hl=en&gl=US"
-        //         },
-        //         {
-        //             "title": "Web",
-        //             "link": "https://www.sastaticket.pk/"
-        //         }
-        //     ]
-        // }
+        
+  {
+    "title": "AgriSense",
+    "image": "images/projects/agrisense.png",
+    "type": "Product",
+    "labels": [
+      // {
+      //   "title": "App",
+      //   "link": "https://apps.apple.com/…"
+      // },
+      // {
+      //   "title": "Play",
+      //   "link": "https://play.google.com/…"
+      // },
+      // {
+      //   "title": "Web",
+      //   "link": "https://agrisense.example.com"
+      // }
+    ]
+  },
+  {
+    "title": "HIV Patient Monitoring App",
+    "image": "images/projects/devfolio.png",
+    "type": "Product",
+    "labels": [
+      // {
+      //   "title": "App",
+      //   "link": "https://apps.apple.com/…"
+      // },
+      // {
+      //   "title": "Play",
+      //   "link": "https://play.google.com/…"
+      // }
+    ]
+  },
+  // {
+  //   "title": "FarmerRiser",
+  //   "image": "images/projects/farmerriser.png",
+  //   "type": "Product",
+  //   "labels": [
+  //     // {
+  //     //   "title": "App",
+  //     //   "link": "https://apps.apple.com/…"
+  //     // },
+  //     // {
+  //     //   "title": "Play",
+  //     //   "link": "https://play.google.com/…"
+  //     // },
+  //     // {
+  //     //   "title": "Web",
+  //     //   "link": "https://farmerriser.example.com"
+  //     // }
+  //   ]
+  // },
+  {
+    "title": "My Therapist",
+    "image": "images/projects/mytherapist.png",
+    "type": "Product",
+    "labels": [
+      // {
+      //   "title": "App",
+      //   "link": "https://apps.apple.com/…"
+      // },
+      // {
+      //   "title": "Play",
+      //   "link": "https://play.google.com/…"
+      // },
+      // {
+      //   "title": "Web",
+      //   "link": "https://mytherapist.example.com"
+      // }
+    ]
+  },
+  // {
+  //   "title": "Food Delivery App",
+  //   "image": "images/projects/food-delivery.png",
+  //   "type": "Product",
+  //   "labels": [
+  //     // {
+  //     //   "title": "Play",
+  //     //   "link": "https://play.google.com/…"
+  //     // }
+  //   ]
+  // },
+  // {
+  //   "title": "Student & Business E-Commerce App",
+  //   "image": "images/projects/student-ecommerce.png",
+  //   "type": "Product",
+  //   "labels": [
+  //     // {
+  //     //   "title": "App",
+  //     //   "link": "https://apps.apple.com/…"
+  //     // },
+  //     // {
+  //     //   "title": "Play",
+  //     //   "link": "https://play.google.com/…"
+  //     // }
+  //   ]
+  // },
+  // {
+  //   "title": "Real-Time Chat App",
+  //   "image": "images/projects/chat-app.png",
+  //   "type": "Product",
+  //   "labels": [
+  //     // {
+  //     //   "title": "GitHub",
+  //     //   "link": "https://github.com/…"
+  //     // }
+  //   ]
+  // }
+
+
     ];
 
     for (var i = 0; i < projects.length; i++) {

@@ -86,5 +86,5 @@ function onScroll(event) {
 }
 
 function downloadResume() {
-    window.open("https://drive.google.com/file/d/1-4QFrJ-8PXL4vsksm_jItxip5CuV0mGj/view?usp=drive_link", "_blank");
+    window.open("https://drive.google.com/file/d/1BoyGKT9yTReGC0_qhSGKxTef0WvuRYrx/view?usp=sharing", "_blank");
 }
